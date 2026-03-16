@@ -1,6 +1,6 @@
 # 📝 AhmadBlog2
 
-A beautiful, fully-featured React blog application — deployable on **AWS Amplify** in minutes.
+A beautiful, fully-featured React blog application — deployable on **AWS Amplify** in minutes...
 
 > Built with React 18 · React Router v6 · Lucide Icons · Pure CSS — **zero UI library dependencies**
 
