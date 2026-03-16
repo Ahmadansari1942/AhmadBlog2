@@ -1,0 +1,15 @@
+/* App-level layout tweaks */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+/* Page transition feel */
+.container {
+  animation: fadeIn 0.3s ease;
+}
