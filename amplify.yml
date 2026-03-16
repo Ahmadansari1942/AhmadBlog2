@@ -5,7 +5,10 @@ frontend:
       commands:
         - nvm install 18
         - nvm use 18
+        - node --version
+        - rm -rf node_modules
         - npm install --legacy-peer-deps
+        - npm install ajv@^8 --legacy-peer-deps
     build:
       commands:
         - npm run build
@@ -14,5 +17,4 @@ frontend:
     files:
       - '**/*'
   cache:
-    paths:
-      - node_modules/**/*
+    paths: []
