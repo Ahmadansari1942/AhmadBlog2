@@ -1,4 +1,4 @@
-# 📝 AhmadBlog
+# 📝 AhmadBlog2
 
 A beautiful, fully-featured React blog application — deployable on **AWS Amplify** in minutes.
 
@@ -32,7 +32,7 @@ https://<branch>.<app-id>.amplifyapp.com
 ## 📁 Project Structure
 
 ```
-AhmadBlog/
+AhmadBlog2/
 ├── public/
 │   ├── index.html          # HTML entry point
 │   └── _redirects          # SPA redirect rule for Amplify
