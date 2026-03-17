@@ -230,4 +230,26 @@ export const ARTICLES = [
     image: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
     tags: ["Movies", "Cinema", "Indie"],
   },
+{
+  id: 16,
+  slug: "healing-power-of-nature",
+  title: "The Healing Power of Nature",
+  excerpt: "Discover how spending time in nature reduces stress, boosts mood, and improves overall well-being in a fast-paced digital world.",
+  content: `Nature is one of the most powerful sources of peace and healing available to us. In today’s fast-moving and technology-driven world, people often forget the importance of spending time outdoors.
+
+Whether it's a walk in the park, sitting by a river, or hiking in the mountains, nature has the ability to refresh both the mind and body. Scientific studies have shown that natural environments significantly reduce stress levels and improve mental clarity.
+
+The sound of birds, fresh air, and greenery create a calming effect that urban environments often lack. Nature also boosts creativity and helps improve focus, making it beneficial for students and professionals alike.
+
+Spending time outdoors also encourages a healthier lifestyle. Activities like walking, cycling, and exploring green spaces improve both physical and mental health.
+
+In conclusion, nature is not just a luxury but a necessity. Taking time to connect with it leads to a healthier, happier, and more balanced life.`,
+  category: "other",
+  author: AUTHORS[0],
+  date: "March 17, 2026",
+  readTime: "4 min",
+  featured: false,
+  image: "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+  tags: ["Nature", "Wellness", "Lifestyle"],
+},
 ];
